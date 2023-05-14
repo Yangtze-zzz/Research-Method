@@ -1,1 +1,0 @@
-define({ availableImg: ["Arthur2021","Malandri2018","Jin2020","Beck2016Visual","Muthivhi2022","Kearney2014","Ren2019","Cui2023","Li2020","Li2021","Xing2018"]});
